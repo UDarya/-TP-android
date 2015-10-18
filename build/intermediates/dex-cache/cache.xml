@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/belka/AndroidStudioProjects/TPProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/belka/AndroidStudioProjects/TPProject/app/build/intermediates/pre-dexed/debug/classes-92ebd71ec2c627af5167df85e714cbd4b3f1264d.jar" />
+    </item>
+    <item
+        jar="/home/belka/Загрузки/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/belka/AndroidStudioProjects/TPProject/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-f67eb12fb24b95dc7eb836c39bc866d0f2e5928b.jar" />
+    </item>
+    <item
+        jar="/home/belka/AndroidStudioProjects/TPProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/belka/AndroidStudioProjects/TPProject/app/build/intermediates/pre-dexed/debug/classes-efb32e905cde9d73480c01696f6dafa26496a7e1.jar" />
+    </item>
+    <item
+        jar="/home/belka/AndroidStudioProjects/TPProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/belka/AndroidStudioProjects/TPProject/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-ccb1149e48e5f1b9a73ae0a3b16267043632cdb1.jar" />
+    </item>
+    <item
+        jar="/home/belka/AndroidStudioProjects/TPProject/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/belka/AndroidStudioProjects/TPProject/app/build/intermediates/pre-dexed/debug/classes-8fa640753e52e27f9e36acad27d93f523c465ad8.jar" />
+    </item>
+
+</items>

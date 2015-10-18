@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="190dp"
+        android:layout_height="190dp"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:src="@drawable/forsecond"
+        android:layout_gravity="center">
+    </ImageView>
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@+id/label"
+        android:textSize="40sp"
+        android:autoText="false"
+        android:layout_gravity="center">
+    </TextView>
+
+</LinearLayout><!-- From: file:/home/belka/AndroidStudioProjects/TPProject/app/src/main/res/layout/list.xml -->
